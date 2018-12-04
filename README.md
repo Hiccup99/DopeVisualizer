@@ -1,2 +1,2 @@
-# DopeAnalyzer
-A simple sound analyzer built on Unity platform
+# DopeVisualizer
+A simple sound visualizer built on Unity platform
